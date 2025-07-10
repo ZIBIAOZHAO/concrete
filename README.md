@@ -22,6 +22,7 @@
 
 
 ## About
+## About
 
 ### What is Concrete
 **Concrete** is an open-source FHE Compiler that simplifies the use of fully homomorphic encryption (FHE). Built on TFHE technology and leveraging LLVM, Concrete makes writing FHE programs accessible to developers without deep cryptography expertise.
