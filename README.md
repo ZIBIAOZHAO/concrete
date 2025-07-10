@@ -211,6 +211,7 @@ This software is distributed under the **BSD-3-Clause-Clear** license. Read [thi
 </p>
 
 ## Support
+## NICE JOB
 
 <a target="_blank" href="https://community.zama.ai/c/concrete/7">
 <picture>
